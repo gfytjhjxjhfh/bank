@@ -1,0 +1,9 @@
+bank.sqlite3
+users.json
+groups.json
+messages.json
+profile_images.json
+ip_logs.jsonl
+.env
+__pycache__/
+*.pyc
